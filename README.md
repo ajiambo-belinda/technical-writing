@@ -194,4 +194,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
   - `CHANGELOG.md`
   - `LICENSE.md`
 
-Remember that the README is often the first thing people see about your project, so make it clear, informative, and welcoming!
+
